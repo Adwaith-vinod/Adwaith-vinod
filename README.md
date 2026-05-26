@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Software Developer & AI enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.csvision.online/img/course-6.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adwaith-vinod&label=Profile%20views&color=0e75b6&style=flat" alt="adwaith-vinod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adwaith-vinod" alt="adwaith-vinod" /></a> </p>
 
 - 🔭 I’m currently working on [flowdesk](https://github.com/Adwaith-vinod/flowdesk)
 
