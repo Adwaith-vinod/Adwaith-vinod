@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Adwaith+%F0%9F%91%8B;AI+%2B+Full-Stack+Developer+from+Kerala;Built+%26+deployed+HireSense+AI+%7C+RAG+%2B+LLM;CS+%4026+%7C+Meesho+Intern+%7C+Let's+build!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Adwaith+%F0%9F%91%8B;AI+%2B+Full-Stack+Developer+from+Kerala;Built+%26+deployed+HireSense+AI+%7C+RAG+%2B+LLM;CS+%4026+%7C+IBM+%26+Danwis+Intern+%7C+Let's+build!" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adwaith-vinod&style=flat-square&color=70a5fd&label=Profile+Views" alt="profile views" />
-  <a href="https://linkedin.com/in/adwaith-vinod">
+  <a href="https://linkedin.com/in/adwaith-vinod-938b1236b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adwaithadhu243@gmail.com">
@@ -24,29 +24,12 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Adwaith:
-    name        = "Adwaith Vinod"
-    location    = "Kerala, India 🇮🇳"
-    degree      = "B.Tech Computer Science @ CUSAT (2026)"
-    
-    stack = [
-        "Python", "Java", "React",
-        "Django", "Docker", "RAG", "LLMs"
-    ]
-    
-    currently_learning = [
-        "System Design",
-        "DSA (Java) — LeetCode grind",
-        "Open Source Contributions",
-        "AI Agents & LLM Orchestration"
-    ]
-    
-    fun_fact = "Built an app so teachers can share screens with NO internet 📡"
-    
-    def motto(self):
-        return "Ship real stuff. Solve real problems. No AI wrappers."
-```
+- 🏠 **Based in** Kerala, India
+- 🎓 **Studying** B.Tech Computer Science @ CUSAT (2026)
+- 🛠️ **Stack** — Python · Java · React · Django · Docker · RAG · LLMs
+- 📚 **Currently learning** — System Design · DSA (Java) · AI Agents · Open Source
+- 📡 **Fun fact** — Built an app that lets teachers share screens with zero internet
+- 💬 **Motto** — *Ship real stuff. Solve real problems. No AI wrappers.*
 
 <br clear="right"/>
 
@@ -178,7 +161,6 @@ class Adwaith:
 |----|------------|---------|
 | 🎓 | Higher Secondary (Class 12) | 98.7% — Biology Science, GHSS Vellur |
 | 🏫 | Secondary Education (Class 10) | 90% — SABTMHSS Thayneri |
-| 🤝 | Campus Placement — Meesho | Selected for 6-month internship with full-time conversion potential |
 | 🧠 | IBM AI-ML Internship | Completed AI/ML certification track with IBM SkillsBuild |
 | 🐳 | Production Deployment | Containerized & deployed full-stack RAG app on Render + Vercel |
 
