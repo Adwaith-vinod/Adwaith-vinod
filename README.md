@@ -1,31 +1,52 @@
-<a href="https://github.com/Adwaith-vinod">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adwaith%20Vinod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20AI%20that%20ships%20%7C%20RAG%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Real%20Products&descAlignY=62&descSize=16" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adwaith%20Vinod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20AI%20that%20actually%20ships%20%7C%20RAG%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20CS%20%2726&descAlignY=62&descSize=16" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Adwaith+Vinod+%F0%9F%91%8B;AI+%2B+Full-Stack+Engineer+%7C+B.Tech+CS+2026;Built+HireSense+AI+%E2%80%94+RAG+%2B+Docker+%2B+Deployed;Shipping+real+products%2C+not+just+side+projects" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Adwaith+%F0%9F%91%8B;AI+%2B+Full-Stack+Developer+from+Kerala;Built+%26+deployed+HireSense+AI+%7C+RAG+%2B+LLM;CS+%4026+%7C+Meesho+Intern+%7C+Let's+build!" alt="Typing SVG" />
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adwaith-vinod&style=flat-square&color=70a5fd&label=Profile+Views" alt="profile views" />
+  <a href="https://linkedin.com/in/adwaith-vinod">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adwaithadhu243@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
+## 👨‍💻 About Me
 
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-### 👋 Hey, I'm Adwaith
-
-- 🏠 &nbsp; Based in **Kerala, India**
-- 🎓 &nbsp; **B.Tech CS @ CUSAT** — Class of 2026
-- 🚀 &nbsp; Built **HireSense AI** — a RAG-based resume screener, live on Render + Vercel
-- 📡 &nbsp; Built **EduShare** — offline Wi-Fi screen sharing, sub-100ms latency, no internet needed
-- 🔭 &nbsp; Currently learning **System Design**, **Advanced RAG**, and **DSA in Java**
-- 🌱 &nbsp; Eyeing open-source contributions to **Mem0** and **Haystack**
-- 💡 &nbsp; Fun fact: EduShare was born because my classroom had no internet — and I got tired of waiting
-- 📬 &nbsp; Reach me at **adwaithadhu243@gmail.com**
-- 💬 &nbsp; Motto: *"Ship real products. Solve real problems. Leave a paper trail."*
-
-<br clear="right"/>
+```python
+class Adwaith:
+    name        = "Adwaith Vinod"
+    location    = "Kerala, India 🇮🇳"
+    degree      = "B.Tech Computer Science @ CUSAT (2026)"
+    
+    stack = [
+        "Python", "Java", "React",
+        "Django", "Docker", "RAG", "LLMs"
+    ]
+    
+    currently_learning = [
+        "System Design",
+        "DSA (Java) — LeetCode grind",
+        "Open Source Contributions",
+        "AI Agents & LLM Orchestration"
+    ]
+    
+    fun_fact = "Built an app so teachers can share screens with NO internet 📡"
+    
+    def motto(self):
+        return "Ship real stuff. Solve real problems. No AI wrappers."
+```
 
 <br clear="right"/>
 
@@ -47,7 +68,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -55,19 +76,21 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)
-
-**Databases & Tools**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibm&logoColor=white)
 
 **AI / ML**
 
-![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=flat-square&logo=ibmwatson&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LLM](https://img.shields.io/badge/LLMs-BF91F3?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-70A5FD?style=flat-square&logo=semantic-web&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-38BDAE?style=flat-square&logo=scipy&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=flat-square&logo=ibm&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
@@ -75,16 +98,16 @@
 
 <div align="center">
   <a href="https://github.com/Adwaith-vinod">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adwaith-vinod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adwaith-vinod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
   <a href="https://github.com/Adwaith-vinod">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adwaith-vinod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adwaith-vinod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
 
 ---
 
-## 🔥 Streak
+## 🔥 Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Adwaith-vinod&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
@@ -95,12 +118,12 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adwaith-vinod&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adwaith-vinod&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adwaith-vinod&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
@@ -111,28 +134,24 @@
 ## 💼 Work Experience
 
 <details>
-<summary><strong>🔵 IBM SkillsBuild — AI-ML Intern &nbsp;|&nbsp; Jun 2024 – Jul 2024 &nbsp;|&nbsp; Remote</strong></summary>
+  <summary><b>🧠 IBM SkillsBuild — AI-ML Intern</b> &nbsp;|&nbsp; Jun 2024 – Jul 2024 &nbsp;|&nbsp; Remote</summary>
 
-<br/>
+> `IBM Watson Studio` `Watson Assistant` `Supervised Learning` `Data Preprocessing` `Python`
 
-> `IBM Watson Studio` &nbsp; `Supervised Learning` &nbsp; `Data Preprocessing` &nbsp; `IBM Watson Assistant` &nbsp; `Model Evaluation`
-
-- Built and deployed AI/ML models on IBM Watson Studio, applying supervised learning and data preprocessing pipelines end-to-end.
-- Designed and developed an educational chatbot using IBM Watson Assistant for real-world conversational use cases.
-- Applied model evaluation techniques to benchmark performance and iterate on outcomes.
+- Built and deployed AI/ML models using IBM Watson Studio with hands-on model evaluation pipelines.
+- Applied supervised learning techniques including data preprocessing, feature engineering, and model tuning.
+- Developed an educational chatbot using IBM Watson Assistant for interactive Q&A scenarios.
 
 </details>
 
 <details>
-<summary><strong>🟠 Danwis Techinfo Solutions — Python & Django Intern &nbsp;|&nbsp; May 2025 – Jun 2025 &nbsp;|&nbsp; On-site</strong></summary>
+  <summary><b>🐍 Danwis Techinfo Solutions — Python & Django Intern</b> &nbsp;|&nbsp; May 2025 – Jun 2025 &nbsp;|&nbsp; On-site</summary>
 
-<br/>
+> `Python` `Django` `MySQL` `REST APIs` `Git` `OOP`
 
-> `Python` &nbsp; `Django` &nbsp; `MySQL` &nbsp; `REST APIs` &nbsp; `Git` &nbsp; `OOP`
-
-- Built backend applications using Django with MySQL integration and RESTful API design.
-- Applied OOP concepts to structure scalable, maintainable Python codebases.
-- Gained production exposure to Git-based version control workflows and API testing practices.
+- Built full-stack web applications using Django with MySQL integration and REST API design.
+- Applied OOP principles across real-world backend modules and contributed to production codebases.
+- Gained hands-on exposure to version control workflows, API testing, and backend dev best practices.
 
 </details>
 
@@ -143,26 +162,25 @@
 <div align="center">
 
 | Project | Stack | Highlights |
-|---|---|---|
-| [**🤖 HireSense AI**](https://github.com/Adwaith-vinod) | Python · RAG · NLP · LLM · React · Docker · Render · Vercel | RAG-powered resume screener with semantic matching, multi-resume ranking, LLM feedback, containerized with Docker — deployed live on Render + Vercel |
-| [**📡 EduShare**](https://github.com/Adwaith-vinod) | Flutter · SQLite · WebSocket · Git | Offline classroom screen-sharing over local Wi-Fi — sub-100ms latency, supports 20+ simultaneous students, zero internet dependency |
+|--------|-------|------------|
+| [**🤖 HireSense AI**](https://github.com/Adwaith-vinod) | Python · RAG · NLP · LLM · React · Docker · Render · Vercel | AI resume screener with semantic job-match scoring, multi-resume ranking, LLM feedback, and full-stack Docker deployment |
+| [**📡 EduShare**](https://github.com/Adwaith-vinod) | Flutter · Kotlin · WebSocket · SQLite · FFmpeg · TCP/UDP | Offline classroom screen-share over local Wi-Fi — sub-100ms latency, 20+ simultaneous viewers, zero internet needed |
 
 </div>
 
 ---
 
-## 🎖️ Achievements
+## 🏅 Achievements
 
 <div align="center">
 
-| | Achievement | Details |
-|---|---|---|
-| 🎓 | B.Tech Computer Science | CUSAT — Class of 2026 |
-| 🤖 | IBM SkillsBuild AI-ML Internship | Built & deployed Watson ML models + chatbot (Jun–Jul 2024) |
-| 🐍 | Django Full-Stack Internship | Production REST APIs + MySQL backend at Danwis (May–Jun 2025) |
-| 🚀 | HireSense AI — Deployed RAG System | Full-stack RAG app live on Render + Vercel with Docker |
-| 📡 | EduShare — Sub-100ms Latency | Offline Wi-Fi screen-sharing for 20+ concurrent students |
-| 📘 | Higher Secondary — 98.7% | GHSS Vellur, Biology Science (2021) |
+| 🏆 | Achievement | Details |
+|----|------------|---------|
+| 🎓 | Higher Secondary (Class 12) | 98.7% — Biology Science, GHSS Vellur |
+| 🏫 | Secondary Education (Class 10) | 90% — SABTMHSS Thayneri |
+| 🤝 | Campus Placement — Meesho | Selected for 6-month internship with full-time conversion potential |
+| 🧠 | IBM AI-ML Internship | Completed AI/ML certification track with IBM SkillsBuild |
+| 🐳 | Production Deployment | Containerized & deployed full-stack RAG app on Render + Vercel |
 
 </div>
 
@@ -173,10 +191,10 @@
 <div align="center">
 
 | Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech — Computer Science | Cochin University College of Engineering Kuttanad (CUSAT) | 2022 – 2026 | In Progress |
+|--------|------------|------|-------|
+| B.Tech Computer Science | Cochin University College of Engineering Kuttanad (CUSAT) | 2022 – 2026 | In Progress |
 | Higher Secondary (+2) — Biology Science | GHSS Vellur, Kannur | 2019 – 2021 | 98.7% |
-| Secondary Education (10th) | SABTMHSS Thayneri, Payyannur | 2018 – 2019 | 90% |
+| Secondary Education (Class 10) | SABTMHSS Thayneri, Payyannur | 2018 – 2019 | 90% |
 
 </div>
 
@@ -185,27 +203,15 @@
 ## 📚 Currently Learning
 
 ```
-🧱 System Design        →  Distributed Systems · Caching · Sharding · CAP Theorem
-🤖 Advanced RAG         →  Agentic RAG · Hybrid Search · Re-ranking Pipelines
-🔷 DSA Mastery          →  Java · Trees · Graphs · DP · Interview Patterns
-🌍 Open Source          →  Mem0 · Haystack · First PRs · OSS Contribution Workflow
-☁️  Cloud & DevOps       →  Kubernetes · CI/CD · Container Orchestration
+🧱 System Design      → Scalability, Caching, Sharding, Distributed Systems
+⚡ DSA (Java)         → LeetCode grind, Trees, Graphs, DP
+🤖 AI Agents          → LLM Orchestration, Tool Use, Agentic Pipelines
+🌍 Open Source        → Mem0, Haystack (RAG ecosystem contributions)
+🔐 Ethical Hacking    → Bug Bounty, Web Security fundamentals
 ```
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adwaith-vinod&color=70a5fd&style=flat-square&label=Profile+Views" />
-  &nbsp;
-  <a href="https://linkedin.com/in/adwaith-vinod-938b1236b">
-    <img src="https://img.shields.io/badge/LinkedIn-adwaith--vinod-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:adwaithadhu243@gmail.com">
-    <img src="https://img.shields.io/badge/Email-adwaithadhu243%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+</p>
