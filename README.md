@@ -8,35 +8,24 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class AdwaithVinod:
-    def __init__(self):
-        self.name        = "Adwaith Vinod"
-        self.username    = "Adwaith-vinod"
-        self.location    = "Kerala, India 🌴"
-        self.degree      = "B.Tech CS @ CUSAT (2026)"
-        self.email       = "adwaithadhu243@gmail.com"
 
-        self.stack = [
-            "Python", "Java", "JavaScript",
-            "React", "Django", "Flutter",
-            "Docker", "RAG", "LLMs", "NLP"
-        ]
 
-        self.currently_learning = [
-            "System Design & Distributed Systems",
-            "Advanced RAG Architectures",
-            "Open-Source Contributions (Mem0, Haystack)",
-            "DSA Mastery in Java"
-        ]
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-        self.fun_fact = "EduShare works offline — no internet, just vibes 📡"
+### 👋 Hey, I'm Adwaith
 
-    def motto(self):
-        return "Ship real products. Solve real problems. Leave a paper trail."
-```
+- 🏠 &nbsp; Based in **Kerala, India**
+- 🎓 &nbsp; **B.Tech CS @ CUSAT** — Class of 2026
+- 🚀 &nbsp; Built **HireSense AI** — a RAG-based resume screener, live on Render + Vercel
+- 📡 &nbsp; Built **EduShare** — offline Wi-Fi screen sharing, sub-100ms latency, no internet needed
+- 🔭 &nbsp; Currently learning **System Design**, **Advanced RAG**, and **DSA in Java**
+- 🌱 &nbsp; Eyeing open-source contributions to **Mem0** and **Haystack**
+- 💡 &nbsp; Fun fact: EduShare was born because my classroom had no internet — and I got tired of waiting
+- 📬 &nbsp; Reach me at **adwaithadhu243@gmail.com**
+- 💬 &nbsp; Motto: *"Ship real products. Solve real problems. Leave a paper trail."*
+
+<br clear="right"/>
 
 <br clear="right"/>
 
@@ -208,7 +197,7 @@ class AdwaithVinod:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Adwaith-vinod&color=70a5fd&style=flat-square&label=Profile+Views" />
   &nbsp;
-  <a href="https://linkedin.com/in/adwaith-vinod">
+  <a href="https://linkedin.com/in/adwaith-vinod-938b1236b">
     <img src="https://img.shields.io/badge/LinkedIn-adwaith--vinod-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
