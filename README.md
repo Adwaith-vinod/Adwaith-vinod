@@ -1,31 +1,222 @@
-<h1 align="center">Hi 👋, I'm Adwaith Vinod</h1>
-<h3 align="center">A passionate Software Developer & AI enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.csvision.online/img/course-6.jpg">
+<a href="https://github.com/Adwaith-vinod">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adwaith%20Vinod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20AI%20that%20ships%20%7C%20RAG%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Real%20Products&descAlignY=62&descSize=16" />
+</a>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Adwaith+Vinod+%F0%9F%91%8B;AI+%2B+Full-Stack+Engineer+%7C+B.Tech+CS+2026;Built+HireSense+AI+%E2%80%94+RAG+%2B+Docker+%2B+Deployed;Shipping+real+products%2C+not+just+side+projects" alt="Typing SVG" />
+</div>
 
+<br/>
 
-- 🔭 I’m currently working on [flowdesk](https://github.com/Adwaith-vinod/flowdesk)
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🌱 I’m currently learning **AI Agents, System Design**
+```python
+class AdwaithVinod:
+    def __init__(self):
+        self.name        = "Adwaith Vinod"
+        self.username    = "Adwaith-vinod"
+        self.location    = "Kerala, India 🌴"
+        self.degree      = "B.Tech CS @ CUSAT (2026)"
+        self.email       = "adwaithadhu243@gmail.com"
 
-- 👯 I’m looking to collaborate on **AI-powered web applications & open source projects**
+        self.stack = [
+            "Python", "Java", "JavaScript",
+            "React", "Django", "Flutter",
+            "Docker", "RAG", "LLMs", "NLP"
+        ]
 
-- 💬 Ask me about **Java, React, RAG**
+        self.currently_learning = [
+            "System Design & Distributed Systems",
+            "Advanced RAG Architectures",
+            "Open-Source Contributions (Mem0, Haystack)",
+            "DSA Mastery in Java"
+        ]
 
-- 📫 How to reach me **adwaithadhu243@gmail.com**
+        self.fun_fact = "EduShare works offline — no internet, just vibes 📡"
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jT2AHp4E0qgqLi1rxAzwn03ysp2vPnOf/view?usp=drivesdk](https://drive.google.com/file/d/1jT2AHp4E0qgqLi1rxAzwn03ysp2vPnOf/view?usp=drivesdk)
+    def motto(self):
+        return "Ship real products. Solve real problems. Leave a paper trail."
+```
 
-- ⚡ Fun fact **I can turn random ideas into real working projects**
+<br clear="right"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adwaith vinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adwaith vinod" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adwaith-vinod&show_icons=true&locale=en&layout=compact" alt="adwaith-vinod" /></p>
+**Languages**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adwaith-vinod&" alt="adwaith-vinod" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)
+
+**Databases & Tools**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**AI / ML**
+
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=flat-square&logo=ibmwatson&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Adwaith-vinod">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adwaith-vinod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  </a>
+  <a href="https://github.com/Adwaith-vinod">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adwaith-vinod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  </a>
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Adwaith-vinod&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adwaith-vinod&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adwaith-vinod&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><strong>🔵 IBM SkillsBuild — AI-ML Intern &nbsp;|&nbsp; Jun 2024 – Jul 2024 &nbsp;|&nbsp; Remote</strong></summary>
+
+<br/>
+
+> `IBM Watson Studio` &nbsp; `Supervised Learning` &nbsp; `Data Preprocessing` &nbsp; `IBM Watson Assistant` &nbsp; `Model Evaluation`
+
+- Built and deployed AI/ML models on IBM Watson Studio, applying supervised learning and data preprocessing pipelines end-to-end.
+- Designed and developed an educational chatbot using IBM Watson Assistant for real-world conversational use cases.
+- Applied model evaluation techniques to benchmark performance and iterate on outcomes.
+
+</details>
+
+<details>
+<summary><strong>🟠 Danwis Techinfo Solutions — Python & Django Intern &nbsp;|&nbsp; May 2025 – Jun 2025 &nbsp;|&nbsp; On-site</strong></summary>
+
+<br/>
+
+> `Python` &nbsp; `Django` &nbsp; `MySQL` &nbsp; `REST APIs` &nbsp; `Git` &nbsp; `OOP`
+
+- Built backend applications using Django with MySQL integration and RESTful API design.
+- Applied OOP concepts to structure scalable, maintainable Python codebases.
+- Gained production exposure to Git-based version control workflows and API testing practices.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [**🤖 HireSense AI**](https://github.com/Adwaith-vinod) | Python · RAG · NLP · LLM · React · Docker · Render · Vercel | RAG-powered resume screener with semantic matching, multi-resume ranking, LLM feedback, containerized with Docker — deployed live on Render + Vercel |
+| [**📡 EduShare**](https://github.com/Adwaith-vinod) | Flutter · SQLite · WebSocket · Git | Offline classroom screen-sharing over local Wi-Fi — sub-100ms latency, supports 20+ simultaneous students, zero internet dependency |
+
+</div>
+
+---
+
+## 🎖️ Achievements
+
+<div align="center">
+
+| | Achievement | Details |
+|---|---|---|
+| 🎓 | B.Tech Computer Science | CUSAT — Class of 2026 |
+| 🤖 | IBM SkillsBuild AI-ML Internship | Built & deployed Watson ML models + chatbot (Jun–Jul 2024) |
+| 🐍 | Django Full-Stack Internship | Production REST APIs + MySQL backend at Danwis (May–Jun 2025) |
+| 🚀 | HireSense AI — Deployed RAG System | Full-stack RAG app live on Render + Vercel with Docker |
+| 📡 | EduShare — Sub-100ms Latency | Offline Wi-Fi screen-sharing for 20+ concurrent students |
+| 📘 | Higher Secondary — 98.7% | GHSS Vellur, Biology Science (2021) |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech — Computer Science | Cochin University College of Engineering Kuttanad (CUSAT) | 2022 – 2026 | In Progress |
+| Higher Secondary (+2) — Biology Science | GHSS Vellur, Kannur | 2019 – 2021 | 98.7% |
+| Secondary Education (10th) | SABTMHSS Thayneri, Payyannur | 2018 – 2019 | 90% |
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```
+🧱 System Design        →  Distributed Systems · Caching · Sharding · CAP Theorem
+🤖 Advanced RAG         →  Agentic RAG · Hybrid Search · Re-ranking Pipelines
+🔷 DSA Mastery          →  Java · Trees · Graphs · DP · Interview Patterns
+🌍 Open Source          →  Mem0 · Haystack · First PRs · OSS Contribution Workflow
+☁️  Cloud & DevOps       →  Kubernetes · CI/CD · Container Orchestration
+```
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adwaith-vinod&color=70a5fd&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <a href="https://linkedin.com/in/adwaith-vinod">
+    <img src="https://img.shields.io/badge/LinkedIn-adwaith--vinod-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:adwaithadhu243@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adwaithadhu243%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
