@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adwaith%20Vinod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20AI%20that%20actually%20ships%20%7C%20RAG%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20CS%20%2726&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adwaith%20Vinod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20AI%20that%20actually%20ships%20%7C%20RAG%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20CS%20Grad%20'26&descAlignY=62&descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Adwaith+%F0%9F%91%8B;AI+%2B+Full-Stack+Developer+from+Kerala;Built+%26+deployed+HireSense+AI+%7C+RAG+%2B+LLM;CS+%4026+%7C+IBM+%26+Danwis+Intern+%7C+Let's+build!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Adwaith+%F0%9F%91%8B;AI+%2B+Full-Stack+Engineer;Build.+Ship.+Impact.+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,8 +24,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🏠 **Based in** Kerala, India
-- 🎓 **Studying** B.Tech Computer Science @ CUSAT (2026)
+- 🎓 **B.Tech Computer Science Graduate** @ CUSAT (2026)
 - 🛠️ **Stack** — Python · Java · React · Django · Docker · RAG · LLMs
 - 📚 **Currently learning** — System Design · DSA (Java) · AI Agents · Open Source
 - 📡 **Fun fact** — Built an app that lets teachers share screens with zero internet
@@ -81,10 +80,10 @@
 
 <div align="center">
   <a href="https://github.com/Adwaith-vinod">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adwaith-vinod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adwaith-vinod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400" />
   </a>
   <a href="https://github.com/Adwaith-vinod">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adwaith-vinod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adwaith-vinod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" />
   </a>
 </div>
 
@@ -101,7 +100,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adwaith-vinod&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adwaith-vinod&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 </div>
 
 ---
@@ -159,6 +158,7 @@
 
 | 🏆 | Achievement | Details |
 |----|------------|---------|
+| 🎓 | B.Tech Computer Science | Graduated — CUSAT, 2026 |
 | 🎓 | Higher Secondary (Class 12) | 98.7% — Biology Science, GHSS Vellur |
 | 🏫 | Secondary Education (Class 10) | 90% — SABTMHSS Thayneri |
 | 🧠 | IBM AI-ML Internship | Completed AI/ML certification track with IBM SkillsBuild |
@@ -174,7 +174,7 @@
 
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
-| B.Tech Computer Science | Cochin University College of Engineering Kuttanad (CUSAT) | 2022 – 2026 | In Progress |
+| B.Tech Computer Science | Cochin University College of Engineering Kuttanad (CUSAT) | 2022 – 2026 | Graduated |
 | Higher Secondary (+2) — Biology Science | GHSS Vellur, Kannur | 2019 – 2021 | 98.7% |
 | Secondary Education (Class 10) | SABTMHSS Thayneri, Payyannur | 2018 – 2019 | 90% |
 
