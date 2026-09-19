@@ -80,10 +80,10 @@
 
 <div align="center">
   <a href="https://github.com/Adwaith-vinod">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adwaith-vinod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Adwaith-vinod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
   <a href="https://github.com/Adwaith-vinod">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adwaith-vinod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adwaith-vinod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
 
@@ -191,6 +191,26 @@
 🌍 Open Source        → Mem0, Haystack (RAG ecosystem contributions)
 🔐 Ethical Hacking    → Bug Bounty, Web Security fundamentals
 ```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/adwaith-vinod-938b1236b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:adwaithadhu243@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Adwaith-vinod">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**Open to backend, AI/ML, and full-stack roles — let's build something real.**
+
+</div>
 
 ---
 
