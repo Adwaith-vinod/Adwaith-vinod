@@ -167,8 +167,6 @@
 | 🏆 | Achievement | Details |
 |----|------------|---------|
 | 🎓 | B.Tech Computer Science | Graduated — CUSAT, 2026 |
-| 🎓 | Higher Secondary (Class 12) | 98.7% — Biology Science, GHSS Vellur |
-| 🏫 | Secondary Education (Class 10) | 90% — SABTMHSS Thayneri |
 | 🧠 | IBM AI-ML Internship | Completed AI/ML certification track with IBM SkillsBuild |
 | 🐳 | Production Deployment | Containerized & deployed full-stack RAG app on Render + Vercel |
 
@@ -183,8 +181,6 @@
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
 | B.Tech Computer Science | Cochin University College of Engineering Kuttanad (CUSAT) | 2022 – 2026 | Graduated |
-| Higher Secondary (+2) — Biology Science | GHSS Vellur, Kannur | 2019 – 2021 | 98.7% |
-| Secondary Education (Class 10) | SABTMHSS Thayneri, Payyannur | 2018 – 2019 | 90% |
 
 </div>
 
@@ -197,7 +193,6 @@
 ⚡ DSA (Java)         → LeetCode grind, Trees, Graphs, DP
 🤖 AI Agents          → LLM Orchestration, Tool Use, Agentic Pipelines
 🌍 Open Source        → Mem0, Haystack (RAG ecosystem contributions)
-🔐 Ethical Hacking    → Bug Bounty, Web Security fundamentals
 ```
 
 ---
