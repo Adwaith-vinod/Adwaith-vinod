@@ -39,17 +39,6 @@
 > Auto-updated from my GitHub — newest pushes first.
 
 <!--START_SECTION:projects-->
-| Project | What it does | Stack | ⭐ | Last push |
-|---------|--------------|-------|----|-----------|
-| [**VisionControl**](https://github.com/Adwaith-vinod/VisionControl) | _No description yet_ | `Python` | 0 | 2026-11-03 |
-| [**StudyForge**](https://github.com/Adwaith-vinod/StudyForge) | _No description yet_ | `Python` | 0 | 2026-09-20 |
-| [**LENS**](https://github.com/Adwaith-vinod/LENS) | _No description yet_ | `Python` | 0 | 2026-09-19 |
-| [**EduShare-offline-screen-sharing-app**](https://github.com/Adwaith-vinod/EduShare-offline-screen-sharing-app) | _No description yet_ | `Dart` | 0 | 2026-06-04 |
-| [**flowdesk**](https://github.com/Adwaith-vinod/flowdesk) | _No description yet_ | `TypeScript` | 0 | 2026-05-07 |
-| [**hiresense-ai**](https://github.com/Adwaith-vinod/hiresense-ai) | _No description yet_ | `JavaScript` | 0 | 2026-04-25 |
-| [**Fintrack**](https://github.com/Adwaith-vinod/Fintrack) | FinTrack helps you take control of your money by tracking expenses, visualizing spending habits, and improving financial decisions. | `JavaScript` | 0 | 2026-04-06 |
-| [**ElderlyCareApp**](https://github.com/Adwaith-vinod/ElderlyCareApp) | An app for elderly people for medicine remainders and efficient voice cloning with lip syncing of relatives | `Python` | 0 | 2026-03-12 |
-| [**Windows-offline-screen-share**](https://github.com/Adwaith-vinod/Windows-offline-screen-share) | _No description yet_ | `C++` | 0 | 2025-04-06 |
 <!--END_SECTION:projects-->
 
 ---
@@ -57,8 +46,6 @@
 ## 🕒 Recent Activity
 
 <!--START_SECTION:activity-->
-- `2026-11-03` · [VisionControl](https://github.com/Adwaith-vinod/VisionControl) — Update README.md ([8fd52bf](https://github.com/Adwaith-vinod/VisionControl/commit/8fd52bfbcfca1bb48f876913ed6c3f8546431c2d))
-- `2026-06-04` · [EduShare-offline-screen-sharing-app](https://github.com/Adwaith-vinod/EduShare-offline-screen-sharing-app) — Update README.md ([79f0d10](https://github.com/Adwaith-vinod/EduShare-offline-screen-sharing-app/commit/79f0d10225c6e9e11c4a25aac6e26e315fbecd06))
 <!--END_SECTION:activity-->
 
 ---
@@ -134,7 +121,17 @@
 
 ---
 
-## 💼 Work Experience
+## 💼 Internships
+
+<details open>
+  <summary><b>🤖 Link Academy — AI/ML Engineering Intern</b> &nbsp;|&nbsp; [Start Month Year] – Present &nbsp;|&nbsp; [Remote/On-site]</summary>
+
+> `Python` `[add your tools here]`
+
+- [What you are building or working on, in one line]
+- [A second concrete thing you did or are doing]
+
+</details>
 
 <details>
   <summary><b>🧠 IBM SkillsBuild — AI-ML Intern</b> &nbsp;|&nbsp; Jun 2024 – Jul 2024 &nbsp;|&nbsp; Remote</summary>
@@ -160,32 +157,6 @@
 
 ---
 
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|----|------------|---------|
-| 🎓 | B.Tech Computer Science | Graduated — CUSAT, 2026 |
-| 🧠 | IBM AI-ML Internship | Completed AI/ML certification track with IBM SkillsBuild |
-| 🐳 | Production Deployment | Containerized & deployed full-stack RAG app on Render + Vercel |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| B.Tech Computer Science | Cochin University College of Engineering Kuttanad (CUSAT) | 2022 – 2026 | Graduated |
-
-</div>
-
----
-
 ## 📚 Currently Learning
 
 ```
@@ -193,6 +164,7 @@
 ⚡ DSA (Java)         → LeetCode grind, Trees, Graphs, DP
 🤖 AI Agents          → LLM Orchestration, Tool Use, Agentic Pipelines
 🌍 Open Source        → Mem0, Haystack (RAG ecosystem contributions)
+🔐 Ethical Hacking    → Bug Bounty, Web Security fundamentals
 ```
 
 ---
