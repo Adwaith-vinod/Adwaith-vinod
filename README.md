@@ -36,8 +36,6 @@
 
 ## 🚀 Projects
 
-> Auto-updated from my GitHub — newest pushes first.
-
 <!--START_SECTION:projects-->
 | Project | What it does | Stack | ⭐ | Last push |
 |---------|--------------|-------|----|-----------|
