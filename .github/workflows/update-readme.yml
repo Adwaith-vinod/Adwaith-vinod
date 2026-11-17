@@ -1,0 +1,37 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 * * * *"      # every hour, picks up pushes to ANY of your repos
+  workflow_dispatch:          # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths-ignore:
+      - "README.md"           # avoid re-running on the bot's own commit
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Rebuild README sections
+        run: python update_readme.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "readme-bot"
+          git config user.email "readme-bot@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || (git commit -m "chore: refresh projects & activity" && git push)
