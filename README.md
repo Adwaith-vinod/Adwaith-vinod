@@ -124,13 +124,12 @@
 ## 💼 Internships
 
 <details open>
-  <summary><b>🤖 Link Academy — AI/ML Engineering Intern</b> &nbsp;|&nbsp; [Start Month Year] – Present &nbsp;|&nbsp; [Remote/On-site]</summary>
+  <summary><b>🤖 Link Academy — AI/ML Engineering Intern</b> &nbsp;|&nbsp; July 2026 – Present &nbsp;|&nbsp; On-site</summary>
 
-> `Python` `[add your tools here]`
+> `Python` `Scikit-learn` `Pandas` `NumPy` `XGBoost`
 
-- [What you are building or working on, in one line]
-- [A second concrete thing you did or are doing]
-
+- Developing and evaluating machine learning models for real-world problems.
+- Working on data preprocessing, feature engineering, and model optimization.
 </details>
 
 <details>
