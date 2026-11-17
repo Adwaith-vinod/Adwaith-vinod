@@ -34,6 +34,22 @@
 
 ---
 
+## 🚀 Projects
+
+> Auto-updated from my GitHub — newest pushes first.
+
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
+
+---
+
+## 🕒 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -105,14 +121,6 @@
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adwaith-vinod&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
@@ -136,19 +144,6 @@
 - Gained hands-on exposure to version control workflows, API testing, and backend dev best practices.
 
 </details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| [**🤖 HireSense AI**](https://github.com/Adwaith-vinod) | Python · RAG · NLP · LLM · React · Docker · Render · Vercel | AI resume screener with semantic job-match scoring, multi-resume ranking, LLM feedback, and full-stack Docker deployment |
-| [**📡 EduShare**](https://github.com/Adwaith-vinod) | Flutter · Kotlin · WebSocket · SQLite · FFmpeg · TCP/UDP | Offline classroom screen-share over local Wi-Fi — sub-100ms latency, 20+ simultaneous viewers, zero internet needed |
-
-</div>
 
 ---
 
