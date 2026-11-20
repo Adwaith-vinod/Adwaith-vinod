@@ -39,9 +39,9 @@
 <!--START_SECTION:projects-->
 | Project | What it does | Stack | ⭐ | Last push |
 |---------|--------------|-------|----|-----------|
+| [**LENS**](https://github.com/Adwaith-vinod/LENS) | A Python-based semantic file search application that enables intelligent content discovery across documents using NLP and text similarity techniques. | `Python` | 0 | 2026-11-20 |
 | [**VisionControl**](https://github.com/Adwaith-vinod/VisionControl) | A computer vision-based application that enables hands-free VLC Media Player control using real-time hand gestures. | `Python` | 0 | 2026-11-03 |
 | [**StudyForge**](https://github.com/Adwaith-vinod/StudyForge) | An AI-powered learning platform designed to enhance productivity through smart study tools, personalized learning resources, and efficient study management. | `Python` | 0 | 2026-09-20 |
-| [**LENS**](https://github.com/Adwaith-vinod/LENS) | A Python-based semantic file search application that enables intelligent content discovery across documents using NLP and text similarity techniques. | `Python` | 0 | 2026-09-19 |
 | [**EduShare-offline-screen-sharing-app**](https://github.com/Adwaith-vinod/EduShare-offline-screen-sharing-app) | A Flutter-based offline screen-sharing application that enables seamless device-to-device screen sharing without requiring an internet connection. | `Dart` | 0 | 2026-06-04 |
 | [**flowdesk**](https://github.com/Adwaith-vinod/flowdesk) | _No description yet_ | `TypeScript` | 0 | 2026-05-07 |
 | [**hiresense-ai**](https://github.com/Adwaith-vinod/hiresense-ai) | An AI-powered resume screening system that uses Retrieval-Augmented Generation (RAG) to analyze resumes and match candidates with job requirements. | `JavaScript` | 0 | 2026-04-25 |
