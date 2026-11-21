@@ -39,7 +39,7 @@
 <!--START_SECTION:projects-->
 | Project | What it does | Stack | ⭐ | Last push |
 |---------|--------------|-------|----|-----------|
-| [**LENS**](https://github.com/Adwaith-vinod/LENS) | A Python-based semantic file search application that enables intelligent content discovery across documents using NLP and text similarity techniques. | `Python` | 0 | 2026-11-20 |
+| [**LENS**](https://github.com/Adwaith-vinod/LENS) | A Python-based semantic file search application that enables intelligent content discovery across documents using NLP and text similarity techniques. | `Python` | 0 | 2026-11-21 |
 | [**VisionControl**](https://github.com/Adwaith-vinod/VisionControl) | A computer vision-based application that enables hands-free VLC Media Player control using real-time hand gestures. | `Python` | 0 | 2026-11-03 |
 | [**StudyForge**](https://github.com/Adwaith-vinod/StudyForge) | An AI-powered learning platform designed to enhance productivity through smart study tools, personalized learning resources, and efficient study management. | `Python` | 0 | 2026-09-20 |
 | [**EduShare-offline-screen-sharing-app**](https://github.com/Adwaith-vinod/EduShare-offline-screen-sharing-app) | A Flutter-based offline screen-sharing application that enables seamless device-to-device screen sharing without requiring an internet connection. | `Dart` | 0 | 2026-06-04 |
